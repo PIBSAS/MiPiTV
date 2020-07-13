@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,---FREE PLAYLIST iptvlinks.es
-http://iptvlinks.es
-#EXTINF:-1,---LAST UPDATE 08-10-2017---
-http://iptvlinks.es
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Premonition
 http://moviecity-i.akamaihd.net/i/LongForm/MP4/922/566/106625D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shanghai
