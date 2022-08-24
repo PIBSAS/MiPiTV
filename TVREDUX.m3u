@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+#EXTINF:-1 tvg-logo="http://catamarcartv.com/wp-content/uploads/2020/05/logo-300x67.png", Canal 2 Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w698791755_b1428000_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="CD Cd Aut Bs As",KZO Entertaiment YT - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="CD Cd Aut Bs As",Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
