@@ -11,12 +11,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-5CAVE.png" group-title="ER Entre Rios",Canal 5 - 5 TV - Cnia Avellaneda - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--4BVC.png" group-title="BA Buenos Aires",BVC 4 - 4CTV - Bahia Blanca  TV - BA Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEC5.png" group-title="GB Gran Bs As",Telecreativa - 5 TV - Lanus - GB Gran Bs As
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---9ED.png" group-title="MI Misiones",Canal 9 - 9 TV - Eldorado - MI Misiones
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0223
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI21POSA.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
 #EXTINF:-1 tvg-logo="http://catamarcartv.com/wp-content/uploads/2020/05/logo-300x67.png", Canal 2 Catamarca TV
@@ -35,6 +29,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
 https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---5TW.png" group-title="CH Chubut",Telecinco - 5 TV - Trelew - CH Chubut
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--4BVC.png" group-title="BA Buenos Aires",BVC 4 - 4CTV - Bahia Blanca  TV - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEC5.png" group-title="GB Gran Bs As",Telecreativa - 5 TV - Lanus - GB Gran Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---9ED.png" group-title="MI Misiones",Canal 9 - 9 TV - Eldorado - MI Misiones
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0223
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF333.png" group-title="CH Chubut",LRF333 El Chubut - 90.1 TV - Trelew - CH Chubut
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5DP.png" group-title="ST Santa Fe",Canal 5 del Pueblo - 5 TV - Alcorta - ST Santa Fe
