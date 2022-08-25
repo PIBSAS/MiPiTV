@@ -37,6 +37,8 @@ https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF333.png" group-title="CH Chubut",LRF333 El Chubut - 90.1 TV - Trelew - CH Chubut
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5DP.png" group-title="ST Santa Fe",Canal 5 del Pueblo - 5 TV - Alcorta - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0280
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="CD Cd Aut Bs As",Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDIALTV.png" group-title="ME Mendoza",LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
@@ -135,6 +137,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ROCHA.png" group-title="BA Buenos Aires",Rocha - 1570 TV - La Plata - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0099
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSRG.png" group-title="TF T del Fuego",Plus - 98.3 TV - Rio Grande - TF T del Fuego
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0308
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF785.png" group-title="TF T del Fuego",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0312
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI999MDQ.png" group-title="BA Buenos Aires",99.9 Radio - 99.9 TV - Mar del Plata - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="BA Buenos Aires",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
@@ -277,8 +283,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0275
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0277
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2CTV.png" group-title="SL San Luis",CTV - 2CTV - San Luis  TV - SL San Luis
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5DP.png" group-title="ST Santa Fe",Canal 5 del Pueblo - 5 TV - Alcorta - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0280
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI863.png" group-title="ST Santa Fe",LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0282
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CL3.png" group-title="ST Santa Fe",CL3 Cablevisión - 3CTV - Chañar Ladeado - ST Santa Fe
@@ -305,10 +309,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0303
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0306
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CTVO.png" group-title="ST Santa Fe",Televideo CTVO - CTV - Villa Ocampo - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0307
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSRG.png" group-title="TF T del Fuego",Plus - 98.3 TV - Rio Grande - TF T del Fuego
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0308
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF785.png" group-title="TF T del Fuego",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0312
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="TU Tucuman",X24 - 19.1TV - Famaillá - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0314
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK458.png" group-title="TU Tucuman",LRK458 Canal 8 - 8 TV - San M de Tucuman - TU Tucuman
