@@ -235,8 +235,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0274
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLS.png" group-title="SJ San Juan",TLS 5 Telesol - 36.1TV - San Juan  TV - SJ San Juan
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0275
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDELSUR.png" group-title="SJ San Juan",Del Sur TV - 36.4TV - San Juan  TV - SJ San Juan
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0277
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2CTV.png" group-title="SL San Luis",CTV - 2CTV - San Luis  TV - SL San Luis
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI863.png" group-title="ST Santa Fe",LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
@@ -311,6 +309,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0165
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LIGHT.png" group-title="SJ San Juan",Light - 97.3 TV - San Juan - SJ San Juan
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0265
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDELSUR.png" group-title="SJ San Juan",Del Sur TV - 36.4TV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0277
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRITNQ.png" group-title="NQ Neuquen",Cadena Ritmo - 101.1 TV - Neuquén - NQ Neuquen
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0237
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILIB951.png" group-title="LP La Pampa",Libertad - 95.1 TV - La Adela - LP La Pampa
