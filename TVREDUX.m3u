@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----T2.png" group-title="BA Buenos Aires",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
