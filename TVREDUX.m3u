@@ -5,6 +5,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CD Cd Aut Bs As",Los Simpson - WebTV - CABA TV Web - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISE10TV.png" group-title="NQ Neuquen",Senillosa TV - 10 TV - Senillosa - NQ Neuquen
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----C4.png" group-title="GB Gran Bs As",C4 Teleaire - 4 TV - San Martin - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-5CAVE.png" group-title="ER Entre Rios",Canal 5 - 5 TV - Cnia Avellaneda - ER Entre Rios
@@ -25,6 +27,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LU80.png" group-title="BA Buenos Aires",LU80 Canal 9 - 9 TV - Bahia Blanca  TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFENILR.png" group-title="LR La Rioja",Fenix - 11 TV - La Rioja - LR La Rioja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",Neox TV - WebTV - Salta  TV - SA Salta
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="CD Cd Aut Bs As",KZO Entertaiment YT - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---5TW.png" group-title="CH Chubut",Telecinco - 5 TV - Trelew - CH Chubut
@@ -207,8 +213,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0203
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILIB951.png" group-title="LP La Pampa",Libertad - 95.1 TV - La Adela - LP La Pampa
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0205
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFENILR.png" group-title="LR La Rioja",Fenix - 11 TV - La Rioja - LR La Rioja
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LR La Rioja",Canal 13 - 13 TV - La Rioja - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVCSAN.png" group-title="LR La Rioja",TVC Sanagasta - 2CTV - Villa Sanagasta - LR La Rioja
@@ -233,8 +237,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0235
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0236
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRITNQ.png" group-title="NQ Neuquen",Cadena Ritmo - 101.1 TV - Neuquén - NQ Neuquen
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0237
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISE10TV.png" group-title="NQ Neuquen",Senillosa TV - 10 TV - Senillosa - NQ Neuquen
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LU92.png" group-title="RN Rio Negro",LU92 TVRionegrina 31 - 10 TV - General Roca - RN Rio Negro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0240
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINORVIS.png" group-title="SA Salta",Nortevisión - 10 TV - Rosario de Lerma - SA Salta
@@ -243,8 +245,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LW82.png" group-title="SA Salta",LW82 Canal 11 - 11 TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",Neox TV - WebTV - Salta  TV - SA Salta
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI9SALTA.png" group-title="SA Salta",Multivisión 9 - 35.1TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0249
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---3LH.png" group-title="SC Santa Cruz",Canal 3 Paralelo 46 - 3CTV - Las Heras - SC Santa Cruz
