@@ -7,8 +7,20 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826374a70/playlist.m3u8?aid=60106eadf34de307dd720e7b&dnt=true&uid=Sbkf74AaLJMGAXRbMXIWqss3zp20aJ1e&sid=SONIHtZqqCkXBafenRVaX97s9CvGkbU5&pid=4Nbt8zIZqhFgsI1cK5OOXEdSM6FBJzKf&ref=fmaspen.com&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1661704112507&ot=8wHeJTEUDK9_uPTKP77E4Q&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&aw_0_1st.playerId=mediastream-player-aspen-pie&liveId=60a2745ff943100826374a70&referer=https%3A%2F%2Ffmaspen.com%2F&propertyName=mediastream-player-aspen-pie&propertyType=web-app&propertyVersion=v0.0.195
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----T2.png" group-title="BA Buenos Aires",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0292
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILRJ518.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/YqnBcEs.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="ST Santa Fe",5RTv (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVCSAN.png" group-title="LR La Rioja",TVC Sanagasta - 2CTV - Villa Sanagasta - LR La Rioja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0214
+#EXTINF:-1 tvg-id="Canal2Sanagasta.ar" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="LR La Rioja",TVC Sanagasta - 2CTV - Villa Sanagasta - LR La Rioja
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CD Cd Aut Bs As",Matrix - WebTV - CABA TV Web - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
 #EXTINF:-1 tvg-id="AZMTV.ar" tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png" group-title="CH Chubut",AZM TV LU83 Canal 9 - 9 TV - Cdro Rivadavia - CH Chubut
@@ -211,14 +223,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0198
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0200
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-2TVJU.png" group-title="JU Jujuy",Canal 2 - 2CTV - San S de Jujuy - JU Jujuy
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0201
+#EXTINF:-1 tvg-id="Canal2HD.ar" tvg-logo="https://i.imgur.com/chp5EJ9.png" group-title="JU Jujuy",Canal 2 - 2CTV - San S de Jujuy - JU Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-4TVJU.png" group-title="JU Jujuy",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI13TVJU.png" group-title="JU Jujuy",Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0203
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LR La Rioja",Canal 13 - 13 TV - La Rioja - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVCSAN.png" group-title="LR La Rioja",TVC Sanagasta - 2CTV - Villa Sanagasta - LR La Rioja
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0214
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRJ212.png" group-title="ME Mendoza",LRJ212 Murialdo - 1290 TV - Guaymallén - ME Mendoza
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0215
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV83.png" group-title="ME Mendoza",LV83 Televida 9 - 28.1TV - Mendoza  TV - ME Mendoza
@@ -243,6 +255,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0236
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2SALTA.png" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
+#EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LW82.png" group-title="SA Salta",LW82 Canal 11 - 11 TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI9SALTA.png" group-title="SA Salta",Multivisión 9 - 35.1TV - Salta  TV - SA Salta
@@ -255,8 +269,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0257
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0260
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png" group-title="SJ San Juan",LV82 Canal 8 - 31.1TV - San Juan  TV - SJ San Juan
 https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRJ518.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2CTV.png" group-title="SL San Luis",CTV - 2CTV - San Luis  TV - SL San Luis
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI863.png" group-title="ST Santa Fe",LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
@@ -267,8 +279,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0283
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0284
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRM869.png" group-title="ST Santa Fe",LRM869 Power Max - 104.5 TV - Recreo - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0288
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0292
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT84.png" group-title="ST Santa Fe",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0295
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
@@ -305,7 +315,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-BEATS.png" group-title="GB Gran Bs As",Beats - 100.5 TV - Tigre - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
-#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://pbs.twimg.com/profile_images/1181691381661814789 group-title="GB Gran Bs As",Beats - 100.5 TV - Tigre - GB Gran Bs As
+#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://pbs.twimg.com/profile_images/1181691381661814789/OG0CbnVX_400x400.jpg" group-title="GB Gran Bs As",Beats - 100.5 TV - Tigre - GB Gran Bs As
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITRUJUI.png" group-title="GB Gran Bs As",LRI404 Trujui - 90.1 TV - Trujui - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
@@ -323,6 +333,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0308
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="BA Buenos Aires",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+#EXTINF:-1 tvg-id="Cadena103.ar" tvg-logo="https://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="BA Buenos Aires",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
+https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="SJ San Juan",Diario de San Juan - WebTV - San Juan  TV - SJ San Juan
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDP1073.png" group-title="CH Chubut",Del Pueblo - 107.3 TV - Cdro Rivadavia - CH Chubut
