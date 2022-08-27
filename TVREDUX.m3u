@@ -109,6 +109,8 @@ https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0150
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="CD Cd Aut Bs As",Canal 26 - 26.1 TV - CABA TV TDA - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+#EXTINF:-1 tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="CD Cd Aut Bs As", Hispan TV
+https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="CD Cd Aut Bs As",Telemax - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="CD Cd Aut Bs As",NET TV - 27.2 TV - CABA TV TDA - CD Cd Aut Bs As
