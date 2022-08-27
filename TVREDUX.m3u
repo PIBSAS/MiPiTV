@@ -27,7 +27,9 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="GB Gran Bs As",GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="RN Rio Negro",Canal 10 Rio Negro (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="RN Rio Negro",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Movies",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
