@@ -99,6 +99,10 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0180
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CTV7.png" group-title="CR Corrientes",Canal 7 - 7 TV - Corrientes - CR Corrientes
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF333.png" group-title="CH Chubut",LRF333 El Chubut - 90.1 TV - Trelew - CH Chubut
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png" group-title="CD Cd Aut Bs As",Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
