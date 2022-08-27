@@ -35,6 +35,8 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="GB Gran Bs As", Aspen FM
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826374a70/playlist.m3u8?aid=60106eadf34de307dd720e7b&dnt=true&uid=Sbkf74AaLJMGAXRbMXIWqss3zp20aJ1e&sid=SONIHtZqqCkXBafenRVaX97s9CvGkbU5&pid=4Nbt8zIZqhFgsI1cK5OOXEdSM6FBJzKf&ref=fmaspen.com&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1661704112507&ot=8wHeJTEUDK9_uPTKP77E4Q&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&aw_0_1st.playerId=mediastream-player-aspen-pie&liveId=60a2745ff943100826374a70&referer=https%3A%2F%2Ffmaspen.com%2F&propertyName=mediastream-player-aspen-pie&propertyType=web-app&propertyVersion=v0.0.195
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----T2.png" group-title="BA Buenos Aires",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
@@ -215,6 +217,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIEURONW.png" group-title="CD Cd Aut Bs As",Euronews YT - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="CD Cd Aut Bs As",Euronews en Español
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="CD Cd Aut Bs As",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
