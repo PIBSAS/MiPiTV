@@ -215,8 +215,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLS.png" group-title="SJ San Juan", TLS 5 Telesol - 36.1TV - San Juan  TV - SJ San Juan
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png" group-title="BA Buenos Aires",TV Solidaria
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="UNAMTransmedia.ar" tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png" group-title="MI Misiones",UNAM Transmedia
 http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U
@@ -301,12 +299,14 @@ https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="CD Cd Aut Bs As",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0021
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOLITV.png" group-title="GB Gran Bs As",Solidaria TV - 19 TV - Caseros - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+#EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VISOLITV.png" group-title="GB Gran Bs As",Solidaria TV - 19 TV - Caseros - GB Gran Bs As
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITR1340.png" group-title="GB Gran Bs As",Tradicional - 1340 TV - Florida - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0074
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-29TVE.png" group-title="BA Buenos Aires",TV 29 Ensenada - 29 TV - Ensenada - BA Buenos Aires
@@ -425,7 +425,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0235
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARG995.png" group-title="NQ Neuquen",LRU326 Argentina - 98.9 TV - Neuquén - NQ Neuquen
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0236
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2SALTA.png" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
+#EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
 #EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
