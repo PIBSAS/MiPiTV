@@ -173,8 +173,10 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://catamarcartv.com/wp-content/uploads/2020/05/logo-300x67.png", Canal 2 Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w698791755_b1428000_DVR.m3u8
-#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/11/LOGOTRANSPARENTE2-1-600x187.png" group-title="TU Tucuman",La Voz de Tucuman
+#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - 101.3 TV - San M de Tucuman - TU Tucuman
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - 101.3 TV - San M de Tucuman - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0321
 #EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPAKAPA.png" group-title="CD Cd Aut Bs As",Paka Paka - 22.2 TV - CABA TV TDA - CD Cd Aut Bs As
@@ -489,8 +491,6 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/d7aBdwS.png" group-title="BA Buenos Aires",Vorterix
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - 101.3 TV - San M de Tucuman - TU Tucuman
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0321
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALERTN.png" group-title="CD Cd Aut Bs As",AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRC1470.png" group-title="GB Gran Bs As",Cadena - 1470 TV - Lanus - GB Gran Bs As
