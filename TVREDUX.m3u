@@ -642,8 +642,4 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--IRTV.png" group-title="CO Cordoba",Imagen Regional TV - TV - Alejo Ledesma - CO Cordoba
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
 #EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
-http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
 http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8
-#EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
-http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8?nimblesessionid=950391
