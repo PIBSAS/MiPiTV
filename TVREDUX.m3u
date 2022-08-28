@@ -459,7 +459,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0288
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0295
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0297
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
@@ -613,8 +613,10 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="CD Cd Aut Bs As",chTV Chacra TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICC2802.png" group-title="CC Chaco",Chaco TV - 26.1TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VICC2802.png" group-title="CC Chaco",Chaco TV - 26.1TV - Resistencia - CC Chaco
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VICC2802.png" group-title="CH Chaco",Chaco TV - 26.1TV - Resistencia - CC Chaco
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITLESTR.png" group-title="CD Cd Aut Bs As",TL Estrella - WebTV - CABA TV Web - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIOK1057.png" group-title="GB Gran Bs As",OK FM - 105.7 TV - Florencio Varela - GB Gran Bs As
@@ -635,17 +637,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0121
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Pinamar Golf - ITV - Pinamar - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0123
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="BA Buenos Aires",Sierra de la Ventana - CamTV - Sa de la Ventana - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--IRTV.png" group-title="CO Cordoba",Imagen Regional TV - TV - Alejo Ledesma - CO Cordoba
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="CH Chaco",Chaco TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
+#EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
+http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8
+#EXTINF:-1 tvg-id="ElPalomar.ar" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="TU Tucuman",El Palomar
+http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8?nimblesessionid=950391
