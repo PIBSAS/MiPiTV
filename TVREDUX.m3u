@@ -53,13 +53,15 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0292
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/YqnBcEs.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILRJ518.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/YqnBcEs.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="ST Santa Fe",5RTv
+#EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",5RTv - 29.2TV - Santa Fe  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0302
+#EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="ST Santa Fe",5RTv - 29.2TV - Santa Fe  TV - ST Santa Fe
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVCSAN.png" group-title="LR La Rioja",TVC Sanagasta - 2CTV - Villa Sanagasta - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0214
@@ -77,7 +79,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-5CAVE.png" group-title="ER Entre Rios",Canal 5 - 5 TV - Cnia Avellaneda - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
-#EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI21POSA.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
+#EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
 #EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
@@ -91,7 +93,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0273
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",Neox TV - WebTV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI5TIGRE.png" group-title="GB Gran Bs As",Cinco TV - 30.1TV - Tigre - GB Gran Bs As
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="GB Gran Bs As",Cinco TV - 30.1TV - Tigre - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="GB Gran Bs As",Cinco TV - 30.1TV - Tigre - GB Gran Bs As
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -109,8 +111,6 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="CPEtv.ar" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Undefined",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/niGj91H.png" group-title="Entertainment",Crossing TV
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--4BVC.png" group-title="BA Buenos Aires",BVC 4 - 4CTV - Bahia Blanca  TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEC5.png" group-title="GB Gran Bs As",Telecreativa - 5 TV - Lanus - GB Gran Bs As
@@ -269,8 +269,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG America
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICROSTV.png" group-title="SC Santa Cruz",Crossing - ITV - Rio Gallegos - SC Santa Cruz
+#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VICROSTV.png" group-title="SC Santa Cruz",Crossing - ITV - Rio Gallegos - SC Santa Cruz
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0256
+#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/niGj91H.png" group-title="SC Santa Cruz",Crossing - ITV - Rio Gallegos - SC Santa Cruz
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--11MA.png" group-title="BA Buenos Aires",Canal 11 - 11 TV - Mar de Ajó - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe - 34.1 TV - CABA TV TDA - CD Cd Aut Bs As
@@ -465,8 +467,6 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0298
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT82.png" group-title="ST Santa Fe",LT82 Canal 13 - 29.1TV - Santa Fe  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0301
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",5RTv - 29.2TV - Santa Fe  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0302
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VEOTV.png" group-title="ST Santa Fe",Veo Santo Tomé - 2CTV - Santo Tomé - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0303
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VERTV.png" group-title="ST Santa Fe",Ver TV - 98CTV - Venado Tuerto - ST Santa Fe
