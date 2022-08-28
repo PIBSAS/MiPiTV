@@ -7,7 +7,7 @@ http://190.61.41.182:8000/play/a2rn/index.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png" group-title="GB Gran Bs As", TV+ 
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="GB Gran Bs As",NEO TV Digital - 16.1TV - Florencio Varela - GB Gran Bs As
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -15,8 +15,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="GB Gran Bs As",San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="Undefined",CANAL.9 MULTIVISION
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Rio Cuarto
@@ -169,8 +167,10 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="Music",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL456.png" group-title="CD Cd Aut Bs As",LRL456 Orbe 21 - 21.2 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILRL456.png" group-title="CD Cd Aut Bs As",LRL456 Orbe 21 - 21.2 TV - CABA TV TDA - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png" group-title="CD Cd Aut Bs As",LRL456 Orbe 21 - 21.2 TV - CABA TV TDA - CD Cd Aut Bs As
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="CD Cd Aut Bs As",Encuentro - 22.1 TV - CABA TV TDA - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/yWLjxWG.png" group-title="Documentary",El Histonauta TV
@@ -361,8 +361,10 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0191
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-2GCHU.png" group-title="ER Entre Rios",Somos - 2CTV - Gualeguaychú - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV 9 Litoral - 9.1TV - Paraná - ER Entre Rios
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV 9 Litoral - 9.1TV - Paraná - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="ER Entre Rios",LRI450 TV 9 Litoral - 9.1TV - Paraná - ER Entre Rios
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---3FO.png" group-title="FO Formosa",FTC - 3 TV - Formosa - FO Formosa
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0197
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGRACIA.png" group-title="FO Formosa",Sublime Gracia - WebTV - Formosa - FO Formosa
@@ -515,8 +517,7 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Culture",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png" group-title="Religious",Canal Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Outdoor",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
