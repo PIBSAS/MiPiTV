@@ -19,12 +19,16 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="CD Cordoba",Canal 9 Rio Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="GB Gran Bs As",Canal 41 Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="GB Gran Bs As",GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="CC Chaco",Plus TV - 6CTV - Pcia de la Plaza - CC Chaco
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C34.png" group-title="SJ San Juan",Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0273
 #EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="RN Rio Negro",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Movies",Golden TV
-https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-logo="https://i.imgur.com/Ji5XLWX.jpg" group-title="LR La Rioja",Canal 11 La Rioja
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="SC Santa Cruz",Canal 12 Puerto Madryn
@@ -73,14 +77,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
 #EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="GB Gran Bs As",Canal 41 Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C11M.png" group-title="CC Chaco",Canal Once - 11 TV - Machagai - CC Chaco
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="CC Chaco",Plus TV - 6CTV - Pcia de la Plaza - CC Chaco
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C34.png" group-title="SJ San Juan",Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0273
+
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Movies",Golden TV
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",Neox TV - WebTV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="GB Gran Bs As",Cinco TV - 30.1TV - Tigre - GB Gran Bs As
