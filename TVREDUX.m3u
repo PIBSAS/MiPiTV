@@ -27,10 +27,10 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C34.png" group-title="SJ San Juan",Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0273
-#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="RN Rio Negro",Canal 10 Rio Negro
+#EXTINF:-1 tvg-logo="https://www.canal3pinamar.com/webapp/imagenes/logoparazocalo.png" group-title="BA Bs As", CN3 Pinamar
+https://video1.intelincloud.com.ar/hls/canal3pinamar.m3u8
+#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer.png" group-title="RN Rio Negro",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-logo="https://i.imgur.com/Ji5XLWX.jpg" group-title="LR La Rioja",Canal 11 La Rioja
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="SC Santa Cruz",Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/j2lPlFe.png" group-title="LR La Rioja",Canal 13 La Rioja
@@ -186,6 +186,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
 #EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="LR La Rioja",Fenix - 11 TV - La Rioja - LR La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-logo="https://i.imgur.com/Ji5XLWX.jpg" group-title="LR La Rioja",Canal 11 La Rioja
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Moreno.ar" tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/06/LOGO-PERMANENTE-FIJO--e1503976768253.png" group-title="GB Gran Bs As",Canal 6 (Moreno)
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMIRADO.png" group-title="CD Cd Aut Bs As",Mirador - 22.3 TV - CABA TV TDA - CD Cd Aut Bs As
