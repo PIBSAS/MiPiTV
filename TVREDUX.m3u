@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://app.emediapp.com/image/logo-metro.png" group-title="TU Tucuman", Canal  12 Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_(2019-1).png" group-title="TU Tucuman", America TV Tucuman
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg/live
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_(2019-1).png" group-title="TU Tucuman", America TV Tucuman
+https://www.youtube.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",SyFy
 http://190.61.41.182:8000/play/a2rn/index.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/Dd8KMvI.png" group-title="Entertainment",Retro Magico
