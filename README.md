@@ -1,6 +1,6 @@
 Prueba de concepto
 
-## JAJA 
+
 <h1 align="center"> Invite a Coffee</h1>
 <p align="center">
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
